@@ -2,7 +2,7 @@
   "use strict";
 
   // Дата рождения: 31 августа 2026, 00:00 по UTC+9 (Токио/Осака)
-  const TARGET_DATE = new Date("2026-08-29T21:45:00+07:00");
+  const TARGET_DATE = new Date("2026-08-31T00:00:00+09:00");
 
   const sky = document.getElementById("sky");
   const countdownEl = document.getElementById("countdown");
